@@ -2,6 +2,8 @@
 
 Los grupos de dividen en roles y tareas.
 
+![](.gitbook/assets/ecommerce-pagina-producto.jpg)
+
 Los roles tienen asignados un conjunto de permisos, las tareas solo uno puntual.
 
 Cada usuario debe tener asignado un rol y cero o más tareas.
